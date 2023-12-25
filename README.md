@@ -1,1 +1,1 @@
-I will put in this repository all my code for ML that I have developed.
+I will put in this repository some of my code for ML that I have developed.
